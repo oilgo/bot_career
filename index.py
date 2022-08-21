@@ -1,5 +1,5 @@
-import telebot
-from main import bot
+port telebot
+from .main import bot
 
 
 def handler(event, _):
